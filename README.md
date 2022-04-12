@@ -4,3 +4,4 @@ This project was made to solve the limitation of classical regression. To solve 
 This project contains:
 - R code version
 - SAS code version
+- The report in PROJET_RGD.pdf
